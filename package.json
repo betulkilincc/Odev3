@@ -1,0 +1,16 @@
+{
+  "name": "odevuc",
+  "version": "1.0.0",
+  "description": "Odev3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betulkilincc/Odev3.git"
+  },
+  "author": "Betul Kilinc",
+  "license": "ISC"
+}
